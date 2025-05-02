@@ -4,6 +4,7 @@ How to Purchase and Take an Oracle Exam - Oracle MyLearn
 Schedule: Exam 1Z0-149: Oracle Database Program with PL/SQL (1Z0-149) - Oracle MyLearn
 
 ##DOCUMENTATION
+https://docs.oracle.com/en/database/oracle/oracle-database/19/index.html
 https://docs.oracle.com/en/database/oracle/oracle-database/19/ladbi/preface.html  INSTALLATION
 https://docs.oracle.com/en/database/oracle/oracle-database/19/lnpls/database-pl-sql-language-reference.pdf
 https://docs.oracle.com/en/database/oracle/oracle-database/19/adfns/database-development-guide.pdf
@@ -11,6 +12,9 @@ https://docs.oracle.com/en/database/oracle/oracle-database/23/sqlrf/sql-language
 
 ##REVIEWS TOPICS
 https://mylearn.oracle.com/ou/exam/oracle-database-program-with-plsql-1z0-149/105037/110643/170351 
+
+##ORACLE LIVE
+https://livesql.oracle.com/landing/
 
 ON GOOGLE SEARCH
 PL/SQL Variables WEBSITE: https://docs.oracle.com/en/database/oracle/oracle-database/
